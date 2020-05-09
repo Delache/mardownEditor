@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1 className='title' >Mardown Editor</h1>
+    <h1 className='title' >Markdown Editor</h1>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
